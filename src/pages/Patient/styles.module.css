@@ -1,0 +1,32 @@
+.container {
+  height: 80vh;
+}
+
+.list {
+  border: 1px solid black;
+  padding: 10px;
+  height: 60vh;
+  margin: 12px;
+  text-align: center;
+  overflow: auto;
+}
+
+.call {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 20px;
+  height: 30vh;
+  overflow: auto;
+}
+
+.listItems{
+    padding-left: 25px;
+    font-size: large;
+    font-weight: 500;
+    text-align: start;
+}
+
+.callItem{
+    font-size: 60px;
+    text-align: center;
+}
